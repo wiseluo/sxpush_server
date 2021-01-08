@@ -1,0 +1,9 @@
+/Temp
+.idea
+/.vagrant
+/Static/upload
+/Log
+/Views
+/public/Static/upload
+/App/HttpController/Push/Platform/Huawei/push_admin/push.log
+/vendor
